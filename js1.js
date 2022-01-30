@@ -46,7 +46,7 @@ function showNotes() {
     let html = "";
     for (let index = 0; index < notestitleObj .length; index++) {
         html += `<div class="noteCard my-2 mx-2 card" style="width: 18rem;">
-        <div class="card-body"><h5>${ notestitleObj[index]} ${index + 1}</h5>
+        <div class="card-body"><h5 style="font-family: 'Cardo', serif;">${ notestitleObj[index]} ${index + 1}</h5>
         
             <p class="card-text"> ${ notesObj[index]}</p>
             <button id="${index}"onclick="deleteNote(this.id)" class="btn btn-primary">Delete Note</button>
