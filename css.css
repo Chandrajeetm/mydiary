@@ -1,8 +1,8 @@
   body{
-      background-image: linear-gradient(rgba(12, 24, 2, 0.308),rgba(37, 37, 37, 0.671)) ;
+      background-image: linear-gradient(rgba(17, 15, 14, 0.808),rgba(148, 150, 151, 0.787),rgba(18, 18, 19, 0.746)) ;
   }
  .haha{
-     background-image: linear-gradient(rgba(237, 237, 243, 0.5), rgba(255, 29, 8, 0.5)) ;
+     background-image: linear-gradient(rgba(15, 15, 238, 0.87), rgba(46, 39, 37, 0.5)) ;
  }
  .magic{
      display: flex;
